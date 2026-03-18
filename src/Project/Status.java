@@ -1,2 +1,5 @@
-package Project;public enum Status {
+package Project;
+
+public enum Status {
+    TODO, IN_PROGRESS, DONE;
 }

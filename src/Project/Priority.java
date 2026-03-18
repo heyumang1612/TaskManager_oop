@@ -1,2 +1,7 @@
-package Project;public enum Priority {
-}
+package Project;
+
+public enum Priority {
+
+        HIGH, MEDIUM, LOW;
+    }
+
